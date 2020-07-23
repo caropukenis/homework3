@@ -1,4 +1,4 @@
-![Read Me File for Homework 3](screenShot.png)
+![Read Me File for Homework 3](/screenShot.png)
 
 # homework3
 

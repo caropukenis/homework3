@@ -1,7 +1,24 @@
-![Read Me File for Homework 3](https://github.com/caropukenis/homework3/blob/master/assets/screenShot.png)
+### Password Generator
 
-## homework3
+![Read Me File for Homework 3](https://github.com/caropukenis/passwordGenerator/blob/master/assets/screenShot.png)
 
-For this homework assignment we were asked to create a password generator. It had to be between 8 and 128 characters and have the option to have 1 to all of the following: upper case letters, lower case letters, numbers, and symbols. We were given the HTML and CSS, as well as the base for the password created buttons, but we had to create the functions and the alerts.
+https://caropukenis.github.io/passwordGenerator/
 
-https://caropukenis.github.io/homework3/
+## Description:
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# Table of Contents
+- [Description](#description)
+- [License](#license)
+- [Questions](#questions)
+
+## License:
+For more information about the license, click the link below:
+- [License](https://opensource.org/licenses/undefined)
+
+## Questions:
+For more information about the Generator, please reach out to me via my email carolinepukenis@gmail.com.
+
+-[GitHub Profile](https://github.com/caropukenis)
+
+  

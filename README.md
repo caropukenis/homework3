@@ -2,7 +2,7 @@
 
 ![Read Me File for Homework 3](https://github.com/caropukenis/passwordGenerator/blob/master/assets/screenShot.png)
 
-https://caropukenis.github.io/passwordGenerator/
+[Website Link](https://caropukenis.github.io/passwordGenerator/)
 
 ## Description:
 

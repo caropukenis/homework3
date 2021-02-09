@@ -1,4 +1,4 @@
-### Password Generator
+# Password Generator
 
 ![Read Me File for Homework 3](https://github.com/caropukenis/passwordGenerator/blob/master/assets/screenShot.png)
 
@@ -6,7 +6,7 @@ https://caropukenis.github.io/passwordGenerator/
 
 ## Description:
 
-# Table of Contents
+## Table of Contents
 - [Description](#description)
 - [License](#license)
 - [Questions](#questions)
